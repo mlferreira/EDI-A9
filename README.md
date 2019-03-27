@@ -1,4 +1,4 @@
-# Ordenação de Vetores
+# Algoritmos de Ordenação
 
 Atividade prática de Estrutura de Dados I.
 
